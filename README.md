@@ -6,7 +6,7 @@ Hydrate is a water intake tracker. Users can track exactly how much water they c
 
 <br>
 
-<img src="Resources/MainScreen.png" width="373">
+<img src="Resources/AddIntake-gif.gif" width="373">
 
 <br><br>
 
