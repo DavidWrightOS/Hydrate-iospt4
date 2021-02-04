@@ -15,7 +15,6 @@ Hydrate is a water intake tracker. Users can track exactly how much water they c
 - Manually add, update or delete intake data from your logs
 - Adjust your target daily intake amount in the settings
 
-<img src="Resources/MainScreenButtons.png" width="250">&nbsp;&nbsp;
 <img src="Resources/DataScreen2.png" width="250">&nbsp;&nbsp;
 <img src="Resources/Settings Screen.png" width="250">
 
