@@ -10,9 +10,20 @@ Hydrate is a water intake tracker. Users can track exactly how much water they c
 
 <br><br>
 
+## View your intake history 
+- See how well you have been staying hydrated over time
+- Manually add, update or delete intake data from your logs
+- Adjust your target daily intake amount in the settings
+
 <img src="Resources/MainScreenButtons.png" width="250">&nbsp;&nbsp;
 <img src="Resources/DataScreen2.png" width="250">&nbsp;&nbsp;
 <img src="Resources/Settings Screen.png" width="250">
+
+<br><br>
+
+## Celebrate reaching your goal each day!
+
+<img src="Resources/confetti-gif.gif" width="250">
 
 <br><br>
 
@@ -39,9 +50,9 @@ Hydrate is a water intake tracker. Users can track exactly how much water they c
 - [x] Settings page allows custom settings, app integrations
 - [x] Current water level displayed on main page with custom wave-like animation
 - [x] History page shows chart of intake levels
-- [ ] Integrate with watchOS to log quickly on the go
-- [ ] Integrate with HealthKit to export data to other apps
 - [ ] Reminders throughout the day
+- [ ] Integrate with HealthKit to export data to other apps
+- [ ] Integrate with watchOS to log quickly on the go
 
 ## Future
 
